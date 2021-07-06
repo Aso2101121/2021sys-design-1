@@ -1,5 +1,5 @@
 ```startuml
-@startuml
+@startumi
 
 /'
   図の中で目立たせたいエンティティに着色するための
